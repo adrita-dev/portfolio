@@ -215,6 +215,14 @@ main {
     text-decoration: underline;
 }
 
+.program-logo {
+    max-width: 200px;
+    height: auto;
+    margin: 15px 0;
+    display: block;
+    border-radius: 8px;
+}
+
 /* Skills Grid */
 .skills-grid {
     display: flex;
